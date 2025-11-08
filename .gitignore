@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+pyvenv.cfg
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Vector DBs / model files / large data
+vector_dbs/
+data/
+*.sqlite3
+*.bin
+*.npy
+
+# Lock / build files
+uv.lock
+pip-wheel-metadata/
+dist/
+build/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,9 @@
+streamlit
+openai
+langfuse
+langchain
+sentence-transformers
+torch
+nltk
+chromadb
+python-dotenv
