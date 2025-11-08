@@ -36,7 +36,7 @@ st.set_page_config(
 )
 
 # Title
-st.title(" AskBharat RAG Chatbot")
+st.title("Parthi AI - AskBharat RAG Chatbot")
 st.markdown("Ask questions about Indian government policies and get AI-powered answers!")
 
 # Sidebar - Model selection
